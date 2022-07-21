@@ -35,7 +35,7 @@ function Post() {
       <CardMedia
         component='img'
         height='20%'
-        image='bg-media.jpeg'
+        image='https://images.pexels.com/photos/9746/people-mother-family-father.jpg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2'
         alt='Paella dish'
       />
       <CardContent>
